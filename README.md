@@ -1,2 +1,2 @@
 # Cronometro-Simples
-Cronometro 
+Vamos criar um Cronometro Simples em Python. 
